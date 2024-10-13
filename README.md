@@ -13,7 +13,7 @@ This project develops unsupervised learning models for segmenting credit card cu
 ## Setup Instructions
 1. Clone the repository: 
    ```bash
-   git clone https://github.com/username/credit-card-segmentation.git
+   git clone https://github.com/hemant-mogia/credit-card-segmentation.git
 
    
 2. Install dependencies:
